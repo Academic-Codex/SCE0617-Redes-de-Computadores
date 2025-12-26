@@ -1,0 +1,12 @@
+REPO_TAGLINE: Computer networks • protocols • backbones
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: workload
+SITE_URL: https://academic-codex.github.io/SCE0617-Redes-de-Computadores
+
+BG_1: "#082F49"
+BG_2: "#0C4A6E"
+TEXT_MAIN: "#F0F9FF"
+TEXT_MUTED: "#BAE6FD"
+ACCENT: "#38BDF8"
+CARD_RADIUS: "18"
